@@ -39,14 +39,14 @@ export const Home = () => {
                     <ContentText>
                         <span>celular: </span> '(34) 99814-8911',<br></br>
                         <span>email: </span> 'aramizo@icloud.com',<br></br>
-                        <span>github: </span> <Link target='_blank'
-                            to={'https://github.com/thiagoaramizo'} >
+                        <span>github: </span> <a target='_blank'
+                            href={'https://github.com/thiagoaramizo'} >
                             'thiagoaramizo'<VscLinkExternal/>
-                        </Link>, <br></br>
-                        <span>linkedin: </span> <Link target='_blank'
-                            to={'https://www.linkedin.com/in/aramizo/'} >
+                        </a>, <br></br>
+                        <span>linkedin: </span> <a target='_blank'
+                            href={'https://www.linkedin.com/in/aramizo/'} >
                             'aramizo'<VscLinkExternal/>
-                        </Link>, <br></br>
+                        </a>, <br></br>
                     </ContentText>
                 
                     {'}'}

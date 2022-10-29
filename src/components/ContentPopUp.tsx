@@ -12,10 +12,10 @@ export const ContentPopUp = () => {
                 <p>Você deve importar de 'NovaOportunidade'.</p>
             </div>
             <div className="popupFooter">
-                <Link target='_blank'
-                    to={'https://wa.me/5534998148911?text=Ol%C3%A1%21+Gostaria+de+implementar+a+NovaOportunidade%21'} >
+                <a target='_blank'
+                    href={'https://wa.me/5534998148911?text=Ol%C3%A1%21+Gostaria+de+implementar+a+NovaOportunidade%21'} >
                     Implementar e importar 'NovaOportunidade' <VscLinkExternal/>
-                </Link>
+                </a>
             </div>
         </ContentPopUpWrapper>
     )
