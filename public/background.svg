@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-1" y1="628.673" x2="1919" y2="628.673">
+	<stop  offset="0" style="stop-color:#662D91"/>
+	<stop  offset="0.1886" style="stop-color:#623093"/>
+	<stop  offset="0.3903" style="stop-color:#553898"/>
+	<stop  offset="0.5982" style="stop-color:#3F47A1"/>
+	<stop  offset="0.8089" style="stop-color:#225BAE"/>
+	<stop  offset="1" style="stop-color:#0071BC"/>
+</linearGradient>
+<path class="st0" d="M0,177.5c0,0,341.2-15,556.3,226.1s300.2,304.2,676.4,328.2S1918,949.9,1918,949.9l1,130.1H-1L0,177.5z"/>
+</svg>
