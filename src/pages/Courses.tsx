@@ -26,7 +26,7 @@ export const Courses = () => {
                     <span>academicos:</span> {'['}
 
                     <ContentText breakline={true}><br/>{'{'}
-                        <span>nome:</span>'<strong>Análise e Desenvilvimento de sistemas</strong>',<br/>
+                        <span>nome:</span>'<strong>Análise e Desenvolvimento de Sistemas</strong>',<br/>
                         <span>faculdade:</span>'Pitágoras',<br/>
                         <span>periodo:</span>'2022-Atual'
                     {'},'}</ContentText>

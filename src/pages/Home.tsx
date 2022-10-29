@@ -40,11 +40,11 @@ export const Home = () => {
                         <span>celular: </span> '(34) 99814-8911',<br></br>
                         <span>email: </span> 'aramizo@icloud.com',<br></br>
                         <span>github: </span> <Link target='_blank'
-                            to={''} >
+                            to={'https://github.com/thiagoaramizo'} >
                             'thiagoaramizo'<VscLinkExternal/>
                         </Link>, <br></br>
                         <span>linkedin: </span> <Link target='_blank'
-                            to={''} >
+                            to={'https://www.linkedin.com/in/aramizo/'} >
                             'aramizo'<VscLinkExternal/>
                         </Link>, <br></br>
                     </ContentText>
